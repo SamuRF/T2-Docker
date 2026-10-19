@@ -4,39 +4,39 @@
 
 ## Samuel Rivas Fernández
 
-## **![][image1]**
+![Portada](img/1.png)
 
 ## **Descarga de imagenes**
 
 ## Primero instalo las imágenes de ubuntu, debian, mariadb, mysql y httpd
 
-![][image2]  
-![][image3]  
-![][image4]  
-![][image5]  
-![][image6]
+![pull ubuntu](img/2.png)
+![pull debian](img/3.png)
+![pull mariadb](img/4.png)
+![pull mysql](img/5.png)
+![pull httpd](img/6.png)
 
 ## Y estas son las imágenes descargadas
 
-## ![][image7]
+![Imgenes de docker](img/7.png)
 
 ## **Arranca un contenedor**
 
 ## Creo el contenedor y arranco el ubuntu
 
-![][image8]
+![arranco ubuntu](img/8.png)
 
 ## Salgo del ubuntu
 
-![][image9]
+![proceso de ubuntu](img/10.png)
 
 ## Y muestro que me he salido
 
-![][image10]
+![pull httpd](img/9.png)
 
 ## Arranco de nuevo el contenedor
 
-![][image11]
+![](img/11.png)
 
 ## Y en otra terminal muestro los contenedores activos
 
