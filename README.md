@@ -40,67 +40,65 @@
 
 ## Y en otra terminal muestro los contenedores activos
 
-![][image12]
+![Portada](img/12.png)
 
 ## Muestro el fichero /etc/os-release sin meterme a la máquina 
 
-![][image13]
+![Portada](img/13.png)
 
 ## **Ejecutar servicios desde contenedores**
 
 ## Arrancar el contenedor de php-apache que se llame web y que sea accesible desde el puerto 8181
 
-## ![][image14]docker  ps compruebo si el contenedor está activo
+![Portada](img/14.png)
+## docker  ps compruebo si el contenedor está activo
 
-![][image15]
+![Portada](img/15.png)
 
 ## Creo el index.html
 
-![][image16]
+![Portada](img/16.png)
 
 ## Ahora copio el index.html
 
-![][image17]
+![Portada](img/17.png)
 
 ## Creo el PHP
 
-## ![][image18]
+![Portada](img/18.png)
 
 ## Y subo el php también
 
-![][image19]
+![Portada](img/19.png)
 
 ## Y aqui se ve como se puede ver la web desde el navegador
 
-![][image20]
-
-![][image21]
+![Portada](img/20.png)
+![Portada](img/21.png)
 
 ## Ahora instalo la base de datos
 
-![][image22]
-
-![][image23]
+![Portada](img/22.png)
+![Portada](img/23.png)
 
 ## Y la base de datos funciona perfectamente
 
-![][image24]
+![Portada](img/24.png)
 
 ## **Obtener información de los contenedores**
 
 ## Compruebo la IP del contenedor web
 
-![][image25]
+![Portada](img/25.png)
 
 ## Y compruebo el puerto del contenedor web
 
-![][image26]
+![Portada](img/26.png)
 
 ## Compruebo la IP de la base de datos
 
-![][image27]
+![Portada](img/27.png)
 
 ## Y su puerto
 
-![][image28]
-
+![Portada](img/28.png)
