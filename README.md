@@ -28,7 +28,7 @@
 
 ## Salgo del ubuntu
 
-![proceso de ubuntu](img/10.png)
+![proceso de ubuntu](img/11.png)
 
 ## Y muestro que me he salido
 
@@ -36,7 +36,7 @@
 
 ## Arranco de nuevo el contenedor
 
-![](img/11.png)
+![](img/10.png)
 
 ## Y en otra terminal muestro los contenedores activos
 
