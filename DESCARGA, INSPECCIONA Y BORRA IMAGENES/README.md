@@ -9,7 +9,7 @@
 
 
 ## Instalo la imagen del ubuntu
-[](img/1.png)
+![](img/1.png)
 
 ## Le vuelco el contenido al info.txt
 [](img/2.png)
