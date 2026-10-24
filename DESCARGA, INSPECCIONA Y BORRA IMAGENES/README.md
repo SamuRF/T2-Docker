@@ -5,7 +5,7 @@
 ## 23 de octubre del 2026
 
 ## Samuel Rivas Fernández
-[][img/portada.png]
+![][img/portada.png]
 
 
 ## Instalo la imagen del ubuntu
